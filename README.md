@@ -1,6 +1,6 @@
 # Olá, eu sou Yuuki Kameda! 👋
 
-Sou estudante do curso Técnico em Desenvolvimento de Sistemas pela Etec Antonio Devisate e faço parte do projeto **DevMentors Unimar**.  
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas pela Etec Antonio Devisate e faço parte do projeto **DevMenthors Unimar**.  
 Atualmente, estou me aprofundando no mundo do desenvolvimento full stack, programando tanto no frontend quanto no backend.  
 
 ---
@@ -42,8 +42,8 @@ Atualmente, estou me aprofundando no mundo do desenvolvimento full stack, progra
 ## 📫 Como me encontrar
 
 - Etec Antonio Devisate - Mtec PI Desenvolvimento de Sistemas  
-- Projeto DevMentors Unimar  
+- Projeto DevMenthors Unimar  
 
 ---
 
-Obrigado pela visita! Vamos codar juntos! 🚀
+Obrigado pela visita!�
