@@ -11,7 +11,7 @@ Atualmente, estou me aprofundando no mundo do desenvolvimento full stack, progra
 - 🛠️ Técnico em Hardware (manutenção de computadores e celulares)  
 - 💻 Full Stack Developer: frontend e backend  
 - 🌱 Sempre aprendendo novas tecnologias e buscando evoluir como desenvolvedor  
-- 🤝 Membro do projeto DevMentors Unimar  
+- 🤝 Membro do projeto DevMenthors Unimar  
 
 ---
 
